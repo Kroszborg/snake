@@ -1,0 +1,5 @@
+C:\abhi\coding\rustproject\snake\target\debug\deps\libgraphics_api_version-36ea19847f4048ae.rmeta: C:\Users\abhim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piston-graphics_api_version-1.0.1\src\lib.rs
+
+C:\abhi\coding\rustproject\snake\target\debug\deps\graphics_api_version-36ea19847f4048ae.d: C:\Users\abhim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piston-graphics_api_version-1.0.1\src\lib.rs
+
+C:\Users\abhim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\piston-graphics_api_version-1.0.1\src\lib.rs:
