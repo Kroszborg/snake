@@ -1,6 +1,6 @@
-C:\abhi\coding\rustproject\snake\target\debug\build\anyhow-35075f4dd4e0809f\out\libanyhow.rmeta: build\probe.rs
+C:\coding\snake-game\target\debug\build\anyhow-35075f4dd4e0809f\out\libanyhow.rmeta: build\probe.rs
 
-C:\abhi\coding\rustproject\snake\target\debug\build\anyhow-35075f4dd4e0809f\out\anyhow.d: build\probe.rs
+C:\coding\snake-game\target\debug\build\anyhow-35075f4dd4e0809f\out\anyhow.d: build\probe.rs
 
 build\probe.rs:
 
